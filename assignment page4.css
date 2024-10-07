@@ -1,0 +1,88 @@
+a{
+	text-decoration:none;
+	color:white;
+	background-color:red;
+	padding:5px;
+	margin-left:-4px;
+	display:inline-block;
+}
+a:hover{
+	color:red;
+	background-color:white;
+	border:1px solid red;
+    box-shadow:3px 3px 3px red;
+    text-shadow:2px 2px 3px blue;
+}
+ul{
+	margin-left:-40px;
+	margin-top:-5px;
+}
+/*These are navigation bars*/
+.nav{
+	position:fixed;
+	top:0;
+	font-size:30px;
+}
+.nav2{
+	position:fixed;
+	top:0;
+	font-size:30px;
+}
+.nav3{
+	position:fixed;
+	top:0;
+	font-size:30px;
+}
+.nav4{
+	position:fixed;
+	top:0;
+	font-size:30px;
+}
+.title{
+	font-family: "Spicy Rice";
+}
+.title{
+	font-size: 30px;
+}
+.col{
+	width:33%;
+	float:left;
+	text-align:center;
+}
+.col2{
+	width:33%;
+	float:left;
+	text-align:center;
+}
+.col3{
+	width:33%;
+	float:left;
+	text-align:center;
+}
+#one{
+	background-color:mediumpurple;
+}
+#two{
+	background-color:lightblue;
+}
+#three{
+	background-color:yellow;
+}
+h1,h2{
+	border:1px solid black;
+	border-radius:5px;
+	pading:10px 10px 10px 10px;
+}
+table,th,td{
+	border:1px solid black;
+	border-collapse:collapse;
+}
+#table1 td{
+	color:grey;
+}
+table{
+	background-color:yellow;
+}
+*{
+	opacity:1;
+}

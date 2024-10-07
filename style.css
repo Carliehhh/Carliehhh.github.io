@@ -1,0 +1,70 @@
+.col{
+	width:33%;
+	float:left;
+	text-align:center;
+}
+.col2{
+	width:33%;
+	float:left;
+	text-align:center;
+}
+img{
+	width:300px;
+	height:250px;
+}
+#one{
+	background-color:blue;
+}
+#two{
+	background-color:green;
+}
+#three{
+	background-color:red;
+}
+a{
+	text-decoration: none;
+	color:white;
+	background-color:black;
+	padding:5px;
+	margin-left:-4px;
+}
+a:hover{
+	color:black;
+	background-color:white;
+	border:1px solid red;
+	box-shadow:3px 3px 3px red;
+	text-shadow:1px 1px 3px blue;
+	display:;
+}
+.nav{
+	position:sticky;
+	top:0;
+}
+/*comments*/
+ul{
+	margin-left:-40px;
+	margin-top:-5px;
+}
+#one{
+	font-family: "Jacquarda Bastarda 9"
+}
+h1{
+
+    }
+    p{
+    	margin-top:50px;
+    	margin-right:50px;
+    	margin-bottom:50px;
+    	margin-left:50px;
+    	pading-color:white;
+    }    
+    #div{
+        width:200px;
+        height:200px;
+        background-color:blue;
+        border:3px solid red;
+        border-radius:100px;
+    }
+th,td{
+	padding:10px 20px 30px 40px;
+}
